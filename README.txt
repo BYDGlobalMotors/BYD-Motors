@@ -1,0 +1,1 @@
+Build Your Dream - Complete site. Open index.html to preview. Replace any placeholders in assets/images with preferred images.
